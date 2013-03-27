@@ -4,7 +4,5 @@ Cadsoft Eagle Library for NXP's LPC81XM line, also known as Cortex M0+, only in 
 
 I've also attached the calculations for the pad placement for recreation or alterations along with a URL for the processing of creating a device for Cadsoft Eagle.
 
-Created by: Drew Jensen
-Date Last Modified: 2013-3-26
 Contact: drew@drewojensen.com
-Twitter: DrewOJensen
+Twitter: @DrewOJensen
