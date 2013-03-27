@@ -1,0 +1,17 @@
+Created by: Drew Jensen
+Date Last Modified: 2013-3-26
+Contact: drew@drewojensen.com
+Twitter: DrewOJensen
+
+To learn how to create a Cadsoft Eagle device, please go to the following site: http://dangerousprototypes.com/2012/03/07/how-to-make-parts-in-cadsoft-eagle/
+
+PADS:
+.4 by 1.35 (Inner 16 pads)
+(-2.275 2.925) (-1.625 2.925) (-.975 2.925) (-.325 2.925) (.325 2.925) (.975 2.925) (1.625 2.925) (2.275 2.925) (-2.275 -2.925) (-1.625 -2.925) (-.975 -2.925) (-.325 -2.925) (.325 -2.925) (.975 -2.925) (1.625 -2.925) (2.275 -2.925);
+
+.6 by 1.35 (Outer 4 pads)
+(-3.025 2.925) (3.025 2.925) (-3.025 -2.925) (3.025 -2.925);
+
+Silkscreen:
+Package Outline
+(-3.3 2.2) (3.3 2.2) (3.3 -2.2) (-3.3 -2.2) (-3.3 2.2)
